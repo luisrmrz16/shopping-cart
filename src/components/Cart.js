@@ -22,7 +22,7 @@ class Cart extends Component {
     return (
       <div>
         <span style={styles.bubble}>
-          <BubbleAlert value={10} />
+          <BubbleAlert value={1} />
         </span>
         <button style={styles.cart}>
           Cart
