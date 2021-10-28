@@ -5,7 +5,7 @@ const styles = {
   product: {
     border: 'solid 1px #EEE',
     boxShadow: '0 5px 5px rgb(0, 0, 0, 0.1)',
-    with: '30%',
+    width: '28%',
     padding: '10px 15px',
     borderRadius: '5px',
   },

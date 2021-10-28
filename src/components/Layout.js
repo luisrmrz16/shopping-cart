@@ -4,12 +4,12 @@ const styles = {
   layout: {
     backgroundColor: '#FFF',
     color: '#0A283E',
-    display: 'flex',
     alignItems: 'center',
+    display: 'flex',
     flexDirection: 'column',
   },
   container: {
-    with: '1200px',
+    width: '1200px',
   }
 }
 
