@@ -18,7 +18,7 @@ const styles = {
     listStyle: 'none',
     display: 'flex',
     justifyContent: 'space-between',
-    alighItems: 'center',
+    alignItems: 'center',
     padding: '25px 20px',
     borderBottom: '1px solid #AAA',
   }
